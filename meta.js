@@ -26,3 +26,4 @@ export const HomeMeta = {
         canonical: "https://website.url"
     }
 };
+https://github.com/minimal-ui-kit/material-kit-react
